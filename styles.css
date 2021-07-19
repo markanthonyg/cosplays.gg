@@ -1,6 +1,8 @@
 body {
-    background-color: #FFC0CB;
+    background-color: #E68FAC;
 }
+/* charm pink:  #E68FAC */
+/* default pink: #FFC0CB */
 
 @font-face {
     font-family: TeX-Gyre-Adventor;
@@ -29,8 +31,8 @@ body {
 }
 
 .bounce-in-fwd {
-	-webkit-animation: bounce-in-fwd 1.1s both;
-	        animation: bounce-in-fwd 1.1s both;
+	-webkit-animation: bounce-in-fwd 2s both;
+	        animation: bounce-in-fwd 2s both;
 }
 
 /* ----------------------------------------------
