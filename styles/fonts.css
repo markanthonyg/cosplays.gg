@@ -1,0 +1,19 @@
+@font-face {
+    font-family: TeX-Gyre-Adventor;
+    src: url("../assets/fonts/TeX-Gyre-Adventor/texgyreadventor-regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: TeX-Gyre-Adventor-bold;
+    src: url("../assets/fonts/TeX-Gyre-Adventor/texgyreadventor-bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: TeX-Gyre-Adventor-bold-italic;
+    src: url("../assets/fonts/TeX-Gyre-Adventor/texgyreadventor-bolditalic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: TeX-Gyre-Adventor-italic;
+    src: url("../assets/fonts/TeX-Gyre-Adventor/texgyreadventor-italic.otf") format("opentype");
+}

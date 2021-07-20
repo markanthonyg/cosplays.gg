@@ -1,0 +1,41 @@
+@import 'styles/animista/tilt-in-fwd-tl.css';
+@import 'styles/animista/bounce-in-fwd.css';
+@import 'styles/animista/fade-in.css';
+@import 'styles/fonts.css';
+
+body {
+    background-color: #E68FAC;
+}
+/* charm pink:  #E68FAC */
+/* default pink: #FFC0CB */
+
+.flex-parent {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+.intro-text {
+    font-family: 'TeX-Gyre-Adventor';
+    font-size: 40pt;
+}
+
+.sub-intro-text {
+    font-family: 'TeX-Gyre-Adventor-italic';
+    font-size: 15pt;
+}
+
+.width-set {
+    max-width: 400px;
+    transform: rotate(-45deg);
+    margin-top: 70px;
+    margin-left: 45px;
+    position: absolute;
+}
+
+  
