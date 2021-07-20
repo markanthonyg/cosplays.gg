@@ -1,1 +1,1 @@
-# cosplays.gg
+# https://cosplays.gg
